@@ -16,7 +16,7 @@
 |[Resources](#resources)            |
 |[Issues](#issues)                  |
 
-## History
+## History ##
 
 Welcome to Flatiron! Every semester, we create student index pages to help in the process of getting to know each other! An index page looks something like [this](http://students.flatironschool.com/). Links from this page go to individual profiles, which look like [this](http://students.flatironschool.com/students/lauraconwill.html).  You will be making and deploying an index page that contains info for all of the people at your current table.  
 
